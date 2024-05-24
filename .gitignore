@@ -1,0 +1,88 @@
+# STM32CubeIDE specific files
+/.settings/
+/debug/
+/Release/
+/Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f0xx.h
+
+# Eclipse specific files
+/.metadata/
+/*.log
+/*.bak
+/*.tmp
+/*.swp
+/.DS_Store
+Thumbs.db
+
+# STM32CubeIDE auto-generated files
+/Debug/
+/Release/
+/.build/
+
+# Project specific
+*.d
+*.o
+*.lst
+*.map
+*.axf
+*.bin
+*.hex
+*.srec
+*.elf
+*.lss
+
+# Linker files
+*.ld
+
+# Libraries
+*.a
+
+# Compiled Object files
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.opensuo
+
+# Object files and executable files
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+*.a
+*.out
+*.srec
+
+# Build directories
+/Debug/
+/Release/
+
+# Other temporary files
+*.log
+*.bak
+*.tmp
+*.swp
+*.tlog
+*.log
+
+# IDE specific files
+/.project
+/.cproject
+/.launches/
+
+# STM32CubeMX files
+/.mxproject
+/.cproject
+/.project
+/.ioc
+/.mxsettings
+
+# Libraries
+*.a
+*.lib
+
+# Other
+*.user
+*.dep
